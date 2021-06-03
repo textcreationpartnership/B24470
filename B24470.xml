@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble petition of the inhabitants of the countie of Essex, who to the number of twenty thousand hands, have subscribed and presented to the committee of the House of Commons at Grocers-Hall in London, Ian. 18. 1641. VVhich was accompanied by knights, gentlemen, and others of good quality in a very great number. To the honorable knights and burgesses of the House of Commons in Parliament. The humble petition of the knights, gentlemen, ministers, and other inhabitants in the county of Essex.</title>
+         </titleStmt>
+         <extent>Approx. 3KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24470</idno><idno type="EEBO-CITATION">99888045</idno>
+  <idno type="VID">201515</idno>
+  <idno type="EEBO-PROQUEST">2248541235</idno>
+  
+            <idno type="STC">Wing H3516</idno>
+            <idno type="STC">Interim Tract Supplement Guide 105.f.17[1]</idno>
+            <idno type="STC">ESTC R228928</idno>
+            <idno type="PROQUEST">ocm99888045</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888045e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24470)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 201515)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C25:2[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble petition of the inhabitants of the countie of Essex, who to the number of twenty thousand hands, have subscribed and presented to the committee of the House of Commons at Grocers-Hall in London, Ian. 18. 1641. VVhich was accompanied by knights, gentlemen, and others of good quality in a very great number. To the honorable knights and burgesses of the House of Commons in Parliament. The humble petition of the knights, gentlemen, ministers, and other inhabitants in the county of Essex.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Thomas,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Catholics --  Controversial literature --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Hampshire (England) --  History --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:201515:1"/>
+            <head>THE HVMBLE PETITION OF THE INHABITANTS OF the Countie of ESSEX, who to the number of twenty thousand hands, have subscribed and presented to the Committee of the House of Commons at Grocers-Hall in <hi>London, Ian.</hi> 18. 1641.</head>
+            <head>VVhich was accompanied by Knights, Gentlemen, and others of good quality in a very great number.</head>
+            <head>To the Honorable Knights and Burges<g ref="char:EOLhyphen"/>ses of the House of COMMONS in Parliament.</head>
+            <head type="sub">The Humble Petition of the Knights, Gentlemen, Ministers, and o<g ref="char:EOLhyphen"/>ther Inhabitants in the County of <hi>Essex.</hi>
+            </head>
+            <opener>SHEWETH,</opener>
+            <p>
+               <seg rend="decorInit">U</seg>Nto your Honourable House, that we are truely sensible of your great care, and extraordinary endeavours, to settle our Religion, and Peace, and daily give thankes to GOD Almighty for it; And we doe further in all hu<g ref="char:EOLhyphen"/>mility present to your Honourable considerations, which wee doe ap<g ref="char:EOLhyphen"/>prehend a great stop in Reformation of matters of Religion, and our selves together with you, and the whole Kingdome, to be in great danger of the Papists, and other ill-affected persons, who are every-where very insolent, and are ready to act the parts of those cruell blood-suckers in <hi>Jreland,</hi> if they be not speedily prevented: by meanes whereof, our Tra<g ref="char:EOLhyphen"/>ding, especially of Clothing, and Farming, grew a great pace, to so great a dampe, as many thousands are like to come to suddaine want. Nor can wee expect any redresse thereof, unlesse the Bishops and Popish Lords be removed out of the House of Peeres.</p>
+            <p>Therefore we humbly pray, that you would earnestly mediate his Majesty and the House of Peeres, That our Brethren in <hi>Ireland,</hi> may speedily be relieved, And the Papists throughou<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Kingdome be disarmed, And that such defects of Armes, as in your discretions, shall ap<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>peare to be meet, may be supplied, and this County and Kingdome, put into such a Warlike posture, as may be best for its defence, and safety, and that the Bishops, and Popish Lords who as we conceiue, have hindered the successe, of your godly Endeavours, may be put out of the House of Peeres, Not doubting but then our Petition formerly presented to your House, will receive a more full and speedy answer.</p>
+            <p>And your Petitioners resolving in all just and Honourable wayes, according to the late <hi>Pro<g ref="char:EOLhyphen"/>testation,</hi> to assist you, with our lives, and Estates, against the Enemies of GOD, the KING, and State, humbly pray to Almighty GOD, for your good successe.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>John Thomas,</hi> 1641.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
